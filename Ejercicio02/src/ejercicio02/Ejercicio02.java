@@ -5,6 +5,6 @@ public class Ejercicio02 {
         int var1 = 10;
         int var2 = 2;
         double resultado = Math.pow(var1,var2)+ 10;
-        System.out.println("Respuesta es: "+resultado);
+        System.out.println("Respuesta es: "+ resultado);
     }
 }
